@@ -3,6 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Volatility Plugin - GLASS](https://github.com/James1950/GLASS-volatility)
+  
+    <b> System Security / Malware: <b>
+  
+  - [IoT Risk Prediction Research Report](https://github.com/James1950/System-Security---IoT-Device-Risk-Prediction-Research-Presentation)
+
 
 <h2>👨‍💻 Other Programming Projects</h2>
 
