@@ -7,6 +7,7 @@
     <b> System Security / Malware: <b>
   
   - [IoT Risk Prediction Research Report](https://github.com/James1950/System-Security---IoT-Device-Risk-Prediction-Research-Presentation)
+  - [Malware Analysis](https://github.com/James1950/Malware-Analysis)
 
 
 <h2>👨‍💻 Other Programming Projects</h2>
