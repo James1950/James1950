@@ -15,7 +15,8 @@
 
 - [PyTunes](https://github.com/James1950/pytunes)
 - [Algorithms & Data Structures](https://github.com/James1950/Data-Structures-and-Algorithms-)
-
+- [Building an ALU using JLS](https://github.com/James1950/Building-an-ALU-using-JLS)
+  
 <h2>📺 Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate - In  Progress]
