@@ -8,6 +8,7 @@
   
   - [IoT Risk Prediction Research Report](https://github.com/James1950/System-Security---IoT-Device-Risk-Prediction-Research-Presentation)
   - [Malware Analysis](https://github.com/James1950/Malware-Analysis)
+  - [Automotive Computing Integrity](https://github.com/James1950/autoComputingIntegrityProj)
 
 
 <h2>👨‍💻 Other Projects</h2>
