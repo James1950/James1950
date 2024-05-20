@@ -10,9 +10,10 @@
   - [Malware Analysis](https://github.com/James1950/Malware-Analysis)
 
 
-<h2>👨‍💻 Other Programming Projects</h2>
+<h2>👨‍💻 Other Projects</h2>
 
 - [PyTunes](https://github.com/James1950/pytunes)
+- [Algorithms & Data Structures](https://github.com/James1950/Data-Structures-and-Algorithms-)
 
 <h2>📺 Certifications</h2>
 
