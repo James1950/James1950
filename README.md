@@ -22,7 +22,7 @@
 <h2>📺 Certifications</h2>
 
 - [Google Cybersecurity Certificate]
-- [CompTIA Sec+ - In Progress ]
+- [CompTIA Security+ - In Progress ]
 
 
 <h2> 🤳 Connect with me:</h2>
