@@ -21,7 +21,7 @@
   
 <h2>📺 Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate - In  Progress]
+- [Google Cybersecurity Certificate]
 - [CompTIA Sec+ - In Progress ]
 
 
