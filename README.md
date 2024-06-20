@@ -4,6 +4,7 @@
 
 - [Volatility Plugin - GLASS](https://github.com/James1950/GLASS-volatility)
 - [SIEM Honeypot using Azure Sentinel](https://github.com/James1950/SIEM-Honeypot---Sentinel-Lab)
+- [File Integrity Monitor](https://github.com/James1950/File-Integrity-Monitor)
   
 -
   <b> System Security / Malware: <b>
