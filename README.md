@@ -24,7 +24,7 @@
   
 <h2>📺 Certifications</h2>
 
-- Google Cybersecurity Professional Certificate - [verify](https://www.credly.com/badges/505230a4-343f-4620-b0cf-4ef9a34e0115/linked_in_profile)
+- Google Cybersecurity Professional Certificate 
 - CompTIA Security+ SY0-701
 - FEMA National Incident Management System (NIMS): ICS-100
 
