@@ -25,6 +25,9 @@
 
 - Google Cybersecurity Professional Certificate 
 - CompTIA Security+ SY0-701
+- LetsDefend SOC Analyst Learning Path - In Progress
+- LetsDefend Malware Analysis Skill Path - In Progress
+  
 - FEMA National Incident Management System (NIMS): ICS-100
 
 
