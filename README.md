@@ -10,7 +10,7 @@
   <b> System Security / Malware: <b>
   - [Malware Analysis](https://github.com/James1950/Malware-Analysis)
   - [Automotive Computing Integrity](https://github.com/James1950/autoComputingIntegrityProj)
-
+  - [LetsDefend SOC Analyst Learning Path](https://github.com/James1950/LetsDefend-SOC-Analyst-Learning-Path)
 -
   <b> Literature: <b>
   - [Security Management Research Paper](https://github.com/James1950/CBL-Security-Research-Paper)
