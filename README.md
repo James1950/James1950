@@ -27,7 +27,7 @@
 - CompTIA Security+ SY0-701
 - LetsDefend SOC Analyst Learning Path 
 - LetsDefend Malware Analysis Skill Path
-- FEMA National Incident Management System (NIMS): ICS-100
+
 
 
 <h2> 🤳 Connect with me:</h2>
