@@ -24,9 +24,10 @@
 <h2>📺 Certifications</h2>
 
 - Google Cybersecurity Professional Certificate 
-- CompTIA Security+ SY0-701
+- CompTIA Security+ 
 - LetsDefend SOC Analyst Learning Path 
 - LetsDefend Malware Analysis Skill Path
+- Extron AV Assoviate
 
 
 
