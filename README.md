@@ -5,6 +5,7 @@
 - [Volatility Plugin - GLASS](https://github.com/James1950/GLASS-volatility)
 - [SIEM Honeypot using Azure Sentinel](https://github.com/James1950/SIEM-Honeypot---Sentinel-Lab)
 - [File Integrity Monitor](https://github.com/James1950/File-Integrity-Monitor)
+- [Roku Indoor Camera Pentesting Capstone Project](https://github.com/James1950/IoT-Pentest-Roku-Indoor-Camera)
   
 -
   <b> System Security / Malware: <b>
